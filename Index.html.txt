@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wisdom Realty CRM</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 40px; }
+    .card {
+      padding: 20px;
+      margin: 20px auto;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      width: 90%;
+      max-width: 400px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px 5px;
+      background: #0a4f70;
+      color: #fff;
+      border-radius: 6px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>📱 Wisdom Realty CRM</h1>
+  <div class="card">
+    <h3>Lead: John Doe</h3>
+    <p>📞 9876543210<br>💰 ₹50L<br>📍 Pune</p>
+    <a class="btn" href="tel:9876543210">Call</a>
+    <a class="btn" href="https://wa.me/919876543210">WhatsApp</a>
+  </div>
+</body>
+</html>
